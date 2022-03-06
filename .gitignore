@@ -1,0 +1,9 @@
+# Visual Studio Code
+.vscode/
+
+# Ambiente Virtual
+.venv/
+
+# Python
+__pycache__/
+.pytest_cache/
